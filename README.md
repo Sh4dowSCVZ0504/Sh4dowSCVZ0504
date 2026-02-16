@@ -1,52 +1,63 @@
-<h1 align="center">👋 Salve, eu sou o Shadow</h1>
+<h1 align="center">Sh4dowSCVZ0504</h1>
 
 <p align="center">
-  🚀 Criador de Projetos Web | 🎮 Dev de Jogos | 🔥 Sempre evoluindo
+  Software Developer • Web Projects • Creative Systems
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sh4dowSCVZ0504">
+    <img src="https://komarev.com/ghpvc/?username=Sh4dowSCVZ0504&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 👨‍💻 About Me
 
-- 💻 Criando projetos para web
-- 🎮 Desenvolvendo ideias e sistemas próprios
-- 🌌 Foco em criatividade e inovação
-- 🔥 Evoluindo todos os dias
+Focused on building structured, scalable and creative digital projects.  
+Passionate about web development, systems design and continuous improvement.
+
+- 🚀 Developing modern web applications  
+- 🧠 Exploring system architecture and logic  
+- 🔥 Always improving performance and design  
+- 🎯 Goal-oriented and detail-focused  
 
 ---
 
-## 🚀 Tecnologias que uso
+## 🛠 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode" />
 </p>
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sh4dowSCVZ0504&show_icons=true&theme=default&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh4dowSCVZ0504&layout=compact&theme=default&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Streak
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Sh4dowSCVZ0504&theme=default&hide_border=true" />
 </p>
 
 ---
 
-## 🌎 Onde me encontrar
+## 📌 Current Focus
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/SEUUSUARIO)
+- Expanding project structure and organization  
+- Improving UI/UX patterns  
+- Building scalable interactive platforms  
 
 ---
 
 <p align="center">
-  ⚡ "Construindo hoje o que vai dominar amanhã."
+  <i>Building with consistency. Scaling with vision.</i>
 </p>
 
